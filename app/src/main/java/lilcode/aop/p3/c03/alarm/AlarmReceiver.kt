@@ -45,6 +45,7 @@ class AlarmReceiver : BroadcastReceiver() {
                 .setContentTitle("알람")
                 .setContentText("일어날 시간입니다.")
                 .setPriority(NotificationCompat.PRIORITY_HIGH)
+                .setSmallIcon(R.drawable.ic_launcher_foreground)
 
             notify(NOTIFICATION_ID, build.build())
         }
