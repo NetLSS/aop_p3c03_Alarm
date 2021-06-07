@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Alarm</string>
+    <string name="change_time">시간 재설정</string>
+    <string name="on_alarm">알람 켜기</string>
 </resources>
