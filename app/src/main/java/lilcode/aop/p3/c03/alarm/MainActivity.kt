@@ -118,6 +118,10 @@ class MainActivity : AppCompatActivity() {
                     PendingIntent.FLAG_UPDATE_CURRENT
                 ) // 있으면 새로 만든거로 업데이트
 
+                // 잠자기 모드에서도 허용 하는 방법
+//                alarmManager.setAndAllowWhileIdle()
+//                alarmManager.setExactAndAllowWhileIdle()
+
                 alarmManager.setInexactRepeating( // 정시에 반복
                     AlarmManager.RTC_WAKEUP, // RTC_WAKEUP : 실제 시간 기준으로 wakeup , ELAPSED_REALTIME_WAKEUP : 부팅 시간 기준으로 wakeup
                     calender.timeInMillis, // 언제 알람이 발동할지.
