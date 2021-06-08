@@ -1,5 +1,7 @@
 # aop-part3-chapter03 -  알람앱
 
+보다 자세한 내용을 저의 [블로그 게시글](https://whyprogrammer.tistory.com/588) 통해 확인할 수 있습니다.
+
 # 목차
 
 1. 인트로 (완성앱 & 구현 기능 소개)
@@ -13,8 +15,8 @@
 
 # 결과화면
 
-![1](./screenshot/1.png)
-
+![1](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FczGroG%2Fbtq6PC58AzI%2FbT9YLZRkiYIBgzxRia2zK1%2Fimg.jpg)
+![2](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FourkL%2Fbtq6HjAtu09%2F2rPJK1UaorA4KBODDeS39k%2Fimg.jpg)
 
 
 # 이 챕터를 통해 배우는 것
